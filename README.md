@@ -2,7 +2,7 @@
 
 An AI-driven system that ingests Indian corporate filings (SH-7, board resolutions, EGM/AGM resolutions, MoA extracts) and produces a draft **Authorised Share Capital Change** table — the kind found in a DRHP filed with SEBI.
 
-Built for S45 AI Engineer take-home assignment.
+
 
 ---
 
